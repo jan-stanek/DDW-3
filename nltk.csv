@@ -1,152 +1,258 @@
-Malibu,Thing
-State Department,the United States federal executive department
-State,Thing
-Mr. Tillerson,an American energy executive
-Security Council,"one of the six principal organs of the United Nations , charged with the maintenance"
-Rupert Murdoch,an Australian-born American media mogul
-British,Thing
-Norway,a sovereign and unitary monarchy
-Islamic State,a type
-Peter D. Feaver,American professor
-United Kingdom,a sovereign country
-Nicola Sturgeon,a Scottish politician
-Bush,Thing
-Jerusalem,a city
-Foreign Service,Thing
-Mr. Valenzuela,a state-owned public university
-Century,a period
-Mr. Moore,a United States-based folk music guitarist
-White House,the official residence
-Mr. Bannon,an American political aide
-Ian Ramage,a cricket umpire
-Kansas City,a 15-county metropolitan area
-West Bank,a landlocked territory
-Thomas,Thing
-Obama,an American politician
-Syria,a country
-Japan,a sovereign island nation
-Andrew Wilson,Thing
-Sammy Davis,Thing
-Glasgow,the largest city
-New York,a state
-Brett H. McGurk,an American lawyer
-Iraq,a country
-Lachlan Murdoch,an American businessman
-Middle East,a transcontinental region
-American,Thing
-Kennedy,Thing
-“and,a tragedy
-Israel,a country
-Heritage,Thing
-Fox News,an American basic cable
-Parliament,"a legislative , elected body"
-Shirley MacLaine,an American film
-Scottish,Thing
-Current,Thing
-Fox,"small-to-medium-sized , omnivorous mammals belonging to several genera"
-Charles D.,known as the Father of Canadian Poetry .
-Public Service,a service
-Texas,the second largest state
-Elliott Abrams,a former American diplomat
-Kansas City International Airport,a public airport
-Daniel Restrepo,a Colombian architect
-Scottish National Party,a Scottish nationalist
-Mr. Greenblatt,an American lawyer
-Roger Ailes,an American media consultant
-Britain,Thing
-Scottish Parliament,"the devolved national , unicameral legislature"
-George W. Bush,an American politician
-Carolinas,"the U.S. states of North Carolina and South Carolina , considered collectively ."
-New York Times,an American daily newspaper
-James,Thing
-Reagan,Thing
-Mr. Salmond,a Scottish politician
-Stephen K. Bannon,an American political aide
-No,Thing
-Sweden,a Scandinavian country
-Arab,an ethnic group
-David H. Koch,an American businessman
-Dean Martin,Thing
-Andrea Tantaros,an American conservative political analyst
-America,Thing
-Sturgeon,the common name
-House,a building
-Israeli,"citizens or permanent residents of the State of Israel , a multiethnic society"
-Ankara,the capital
-Mr. Trump’s,Thing
-Turkey,a transcontinental country
-Islamic,an Abrahamic monotheistic religion
-John Kerry,an American politician
-Washington,Thing
-Century Fox,an American film studio
-Yael Lempert,the principal forum
-Defense,Thing
-Times,Thing
-National,Thing
-Mr. Obama,an American politician
-Nascar,an American family-owned and operated business venture
-Wendy Walsh,an author
-Mr. O’Reilly,an American television host
-Bute House,the official residence
-Mr. Trump,a German surname
-United States,a constitutional federal republic
-House Republicans,the party caucus
-Western Hemisphere,a geographical term
-Latinos,a term
-Stephen Moore,Thing
-Senior Director Yael Lempert,the principal forum
-Missouri,a state
-William H. Rehnquist,Thing
-Tillerson,an American energy executive
-Scots,Thing
-Justin Trudeau,a Canadian politician
-Europe,a continent
-California,the most populous state
-Bill O’Reilly,Thing
-Muslim,someone
-Chris Deerin,a strategic communications consultancy
-Theresa May,"the Prime Minister of the United Kingdom and Leader of the Conservative Party , having served as both since July 2016 ."
-Jason D. Greenblatt,an American lawyer
-Alex Salmond,a Scottish politician
-Oxford,a city
-Trump Organization,an American privately owned international conglomerate
-America’s,Thing
-Raqqa,a city
-Brexit,a commonly used term
-Israeli-Palestinian,"citizens or permanent residents of the State of Israel , a multiethnic society"
-London,the capital
-Mr. Shannon,Thing
-Pentagon,any five-sided polygon
-Mr. Deerin,Thing
-State Rex,an American energy executive
-Scotland,a country
-Mr. Ailes,an American author
-East Room,an event
-Republican,Thing
-European Union,a political and economic union
-Jose Cuervo,a brand
-Mr. McGurk,an American lawyer
-Shinzo Abe,the Prime Minister of Japan and the President of the Liberal Democratic Party ( LDP ) .
-Mr. Bush,an English surname
-Canada,a country
-Turks,Thing
-Partnership,an arrangement
-Frank Sinatra,Thing
-Barack,an American politician
-Palestinians,an ethnonational group
-Speaker Paul,its presiding officer
-Mr.,a commonly used English honorific
-Jim Mattis,"the 26th and current United States Secretary of Defense , serving in the Trump Administration ."
-Arturo Valenzuela,a Chilean-American academic
-Mr. Netanyahu,Thing
-Trump,Thing
-Shannon Jr.,an American diplomat
-Clinton,a British surname
-Center,Thing
-Affordable Care Act,a United States federal statute
-Lempert,Thing
-Turkish,Thing
-Benjamin Netanyahu,the current Prime Minister of Israel .
-Jewish,an ethnoreligious group
-Condoleezza Rice,an American political scientist
-Kurdish,Thing
+Kansas City International Airport,PERSON
+Norway,GPE
+Priebus,PERSON
+Brietbart,GPE
+European Union,GPE
+Scotland,GPE
+National,ORGANIZATION
+Republican,ORGANIZATION
+James,PERSON
+Elliott Abrams,PERSON
+Arab,PERSON
+Arturo Valenzuela,PERSON
+Paul,PERSON
+John Glaser,PERSON
+Reagan,GPE
+Populist,ORGANIZATION
+Murphy,PERSON
+Defense,ORGANIZATION
+NATO,ORGANIZATION
+Malibu,GPE
+Mr. O’Reilly,PERSON
+Jens Stoltenberg,PERSON
+Frank Sinatra,PERSON
+Palestinians,GPE
+West Wing,LOCATION
+George W. Bush,PERSON
+West,GPE
+Group,PERSON
+West Bank,LOCATION
+Politico,GPE
+Middle East,GPE
+New York,GPE
+Alex Salmond,PERSON
+Fox,PERSON
+Francois Hollande,PERSON
+Pence,PERSON
+Parliament,ORGANIZATION
+Syrians,GPE
+Times,ORGANIZATION
+Michael Fallon,PERSON
+Mar-a-Lago,ORGANIZATION
+Arabia,PERSON
+Chris Collins,PERSON
+Tillerson,PERSON
+Freedom Caucus,ORGANIZATION
+William H. Rehnquist,PERSON
+Nigel Farage,PERSON
+No,ORGANIZATION
+New York Times,GPE
+Nicola Sturgeon,PERSON
+Muslim,ORGANIZATION
+Current,PERSON
+Paul Nuttall,PERSON
+State Rex,ORGANIZATION
+Mr. Egeland,PERSON
+Japan,GPE
+Lachlan Murdoch,PERSON
+Security Council,ORGANIZATION
+Kushner,PERSON
+Israel,GSP
+John Kerry,PERSON
+Lindsay Walters,PERSON
+Barack,GPE
+Mr. Salmond,PERSON
+Al Qaeda,PERSON
+Saudi,GPE
+Ivanka Trump,PERSON
+“and,GPE
+Shinzo Abe,PERSON
+American,GPE
+Road Warrior,GPE
+Jersey Republican,PERSON
+Mr. Bannon,PERSON
+Lempert,PERSON
+Ian Ramage,PERSON
+Scottish,GPE
+Iran,GPE
+David H. Koch,PERSON
+Needham,PERSON
+Kurdish,GPE
+Iraq,GPE
+Trump,PERSON
+Mr. Assad,PERSON
+State Department,ORGANIZATION
+Milo Yiannopoulos,PERSON
+State,ORGANIZATION
+Theresa May,PERSON
+Calif,GPE
+Center,ORGANIZATION
+Russia,GPE
+Britain,GPE
+Lucy,PERSON
+Assad,ORGANIZATION
+CNN,ORGANIZATION
+Bernie Sanders,PERSON
+Pentagon,FACILITY
+Supreme Court,ORGANIZATION
+Condoleezza Rice,ORGANIZATION
+Western Hemisphere,LOCATION
+Peter D. Feaver,PERSON
+United Kingdom Defense,PERSON
+Independence Party,ORGANIZATION
+Barack Obama,PERSON
+Andrew Wilson,PERSON
+Twitter,PERSON
+Cato Institute,ORGANIZATION
+Mr. Greenblatt,PERSON
+Capitol,ORGANIZATION
+Justin Trudeau,PERSON
+Senior Director Yael Lempert,PERSON
+US,ORGANIZATION
+Raqqa,GPE
+New,GPE
+Europe,GPE
+Mr. Bush,PERSON
+Kentucky Republican,ORGANIZATION
+Bill O’Reilly,PERSON
+Starbucks,FACILITY
+Broken,PERSON
+Le Pen,PERSON
+Tulsa,GPE
+Carolinas,ORGANIZATION
+Syria,GSP
+Pennsylvania,GPE
+Turks,GPE
+Century Fox,ORGANIZATION
+Mr. Netanyahu,PERSON
+Marine Le Pen,PERSON
+Belgium,GPE
+Charles D.,PERSON
+Islamic,ORGANIZATION
+Bush,ORGANIZATION
+Michael Needham,PERSON
+Brexit,PERSON
+Damascus,GPE
+Affordable Care Act,ORGANIZATION
+Lebanon,GPE
+United States,GPE
+Refugee Council,ORGANIZATION
+Sturgeon,PERSON
+Scottish National Party,ORGANIZATION
+House Republicans,ORGANIZATION
+Heritage,ORGANIZATION
+Canadian,GPE
+Shannon Jr.,PERSON
+Washington,GPE
+Japanese,GPE
+Ankara,GPE
+Brett H. McGurk,PERSON
+Donald Trump Russia Glaser,PERSON
+Mideast,GPE
+Obamacare,ORGANIZATION
+Norwegian,GPE
+GOP,ORGANIZATION
+Century,ORGANIZATION
+Canada,GPE
+Farage,GPE
+Palm Beach,PERSON
+Mr. Tillerson,PERSON
+Mr.,PERSON
+Mr. Valenzuela,PERSON
+Partnership,ORGANIZATION
+Benjamin Netanyahu,PERSON
+Shirley MacLaine,PERSON
+Obama,ORGANIZATION
+Mr. Trump’s,PERSON
+Mike Pence,PERSON
+Public Service,ORGANIZATION
+Sweden,PERSON
+House,ORGANIZATION
+Speaker Paul,PERSON
+British,GPE
+Sammy Davis,PERSON
+Trump Organization,FACILITY
+Heritage Action,PERSON
+Turkey,GPE
+Mr. Ailes,PERSON
+Oakland,GPE
+Jordan,GPE
+Chinese,GPE
+United Kingdom,ORGANIZATION
+Bashar,PERSON
+Dean Martin,PERSON
+Steve Bannon,PERSON
+Stephen Moore,PERSON
+Chris Deerin,PERSON
+Missouri,GPE
+Florida,GPE
+Nascar,GPE
+Mr. Shannon,PERSON
+Okla.,GPE
+Jan Egeland,PERSON
+America’s,GPE
+Wendy Walsh,PERSON
+Israeli,GPE
+Reince Priebus,PERSON
+Ann Coulter,PERSON
+Paul Ryan,PERSON
+Tom MacArthur,PERSON
+Andrea Tantaros,PERSON
+Mr. Moore,PERSON
+Yael Lempert,PERSON
+BBC,ORGANIZATION
+Jim Mattis,PERSON
+Vermont,PERSON
+Jerusalem,GPE
+Israeli-Palestinian,GPE
+Syrian,GPE
+Ryan,PERSON
+Rupert Murdoch,PERSON
+French,GPE
+Mr. Deerin,PERSON
+Mr. Trump,PERSON
+Nuttall,PERSON
+Fox News,PERSON
+White House,FACILITY
+Xi Jinping,PERSON
+Oxford,GPE
+German Chancellor Angela Merkel,PERSON
+McHenry,ORGANIZATION
+Thomas,PERSON
+Congress,ORGANIZATION
+Turkish,GPE
+America,ORGANIZATION
+Latinos,PERSON
+Mr. McGurk,PERSON
+Scottish Parliament,ORGANIZATION
+House Freedom Caucus,ORGANIZATION
+California,GPE
+Foreign Service,ORGANIZATION
+Texas,GPE
+Bannon,PERSON
+France,GPE
+East Room,LOCATION
+Donald Trump,PERSON
+Stephen K. Bannon,PERSON
+Staff Reince Priebus,PERSON
+Bute House,FACILITY
+Scots,PERSON
+London,GPE
+Mr. Obama,PERSON
+Daniel Restrepo,PERSON
+Kennedy,GPE
+Jason D. Greenblatt,PERSON
+United Nations,ORGANIZATION
+National Front,ORGANIZATION
+Jose Cuervo,PERSON
+Jared Kushner,PERSON
+Glasgow,GPE
+Islamic State,ORGANIZATION
+Infowars,PERSON
+Jewish,PERSON
+Republican Party,ORGANIZATION
+Patrick McHenry,PERSON
+Clinton,PERSON
+Kansas City,GPE
+Paul Joseph Watson,PERSON
+Roger Ailes,PERSON

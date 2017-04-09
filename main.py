@@ -1,6 +1,7 @@
 import nltk
 import wikipedia
 import csv
+from collections import Counter
 
 
 text = None
@@ -9,6 +10,10 @@ with open('data.txt', 'r') as f:
 
 tokens = nltk.word_tokenize(text)
 
+def tokenCounts(tokens):
+    counts = Counter(tokens)
+    sortedCounts = sorted(counts.items(), key=lambda count: count[1], reverse=True)
+    return sortedCounts
 
 def wiki(entity):
     results = wikipedia.search(entity)
@@ -46,7 +51,7 @@ def wiki(entity):
 
 # POS
 tagged = nltk.pos_tag(tokens)
-
+print(tokenCounts(tagged))
 
 # NER - NLTK
 def extractEntities(ne_chunked):
@@ -62,14 +67,24 @@ def extractEntities(ne_chunked):
 
 ne_chunked = nltk.ne_chunk(tagged, binary=False)
 ne = [token for token in extractEntities(ne_chunked)]
+ne_types = extractEntities(ne_chunked)
+
+with open('nltk.csv', 'w') as csvfile:
+    fieldnames = ['entity', 'classification']
+    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+    for r in ne:
+        writer.writerow({'entity': r, 'classification': ne_types[r]})
+
 res = []
 for e in ne:
     res.append(wiki(e))
-with open('nltk.csv', 'w') as csvfile:
+
+with open('nltk-wiki.csv', 'w') as csvfile:
     fieldnames = ['entity', 'classification']
     writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
     for r in res:
         writer.writerow({'entity': r[0], 'classification': r[1]})
+
 
 
 # NER - custom
@@ -83,7 +98,7 @@ for res in result:
 res = []
 for e in ne:
     res.append(wiki(e))
-with open('custom.csv', 'w') as csvfile:
+with open('custom-wiki.csv', 'w') as csvfile:
     fieldnames = ['entity', 'classification']
     writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
     for r in res:
